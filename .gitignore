@@ -1,6 +1,7 @@
 
 *.in
 *.out
+*.ans
 1_pennylane101/samples/
 2_algorithms/samples/
 3_games/samples/
