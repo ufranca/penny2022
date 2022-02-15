@@ -1,7 +1,8 @@
+
 *.in
 *.out
-1_pennylane101/samples
-2_algorithms/samples
-3_games/samples
-4_quantum_chemistry/samples
-5_qml/samples
+1_pennylane101/samples/
+2_algorithms/samples/
+3_games/samples/
+4_quantum_chemistry/samples/
+5_qml/samples/
